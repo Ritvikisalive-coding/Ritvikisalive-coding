@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, tech and video games
 - 🌱 I’m currently learning python and soon wish to start c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Dont reach me. You can't reach me
 
 <!---
 Ritvikisalive-coding/Ritvikisalive-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
